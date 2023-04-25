@@ -1,1 +1,1 @@
-# Data-Structures-and-Algotithms-Examples
+# Data-Structures-and-Algorithms-Examples
